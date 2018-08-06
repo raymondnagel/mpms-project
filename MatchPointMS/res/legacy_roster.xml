@@ -1,0 +1,6695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+  <player>
+    <id>0</id>
+    <since>08/29/2014</since>
+    <firstName>Raymond</firstName>
+    <lastName>Nagel</lastName>
+    <sex>Male</sex>
+    <dob>08/13/1983</dob>
+    <password>c04chm3</password>
+    <address>562 East Schenck Street</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-400-1041</phone>
+    <email>raymond.nagel@gmail.com</email>
+    <rating>1874</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>permanent</memType>
+      <memExp>01/01/2100</memExp>
+      <special>President</special>
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/26/2015</checkIn>
+    </checkIns>
+    <charges />
+  </player>
+  <player>
+    <id>1</id>
+    <since>09/01/2014</since>
+    <firstName>Miguel (Sr.)</firstName>
+    <lastName>Hernandez</lastName>
+    <sex>Male</sex>
+    <dob>07/01/1951</dob>
+    <password>h</password>
+    <address>299 Virginia Street</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14201</zip>
+    <phone>716-853-2405</phone>
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-2.75</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>10/19/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/23/2014 21:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 09/17/2014</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>2</id>
+    <since>09/08/2014</since>
+    <firstName>Fernando</firstName>
+    <lastName>Rios</lastName>
+    <sex>Male</sex>
+    <dob>05/01/1983</dob>
+    <password>google</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone>850-980-4863</phone>
+    <email>rios.fernando@gmail.com</email>
+    <rating>1459</rating>
+    <usatt>true</usatt>
+    <balance>5.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/14/2015 18:27</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 22:02</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/29/2015 18:47</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>3</id>
+    <since>09/08/2014</since>
+    <firstName>Shane</firstName>
+    <lastName>Pang</lastName>
+    <sex>Male</sex>
+    <dob>08/23/1989</dob>
+    <password>xh12345</password>
+    <address>212h South Lake Village</address>
+    <city>buffalo</city>
+    <state>NY</state>
+    <zip>14261</zip>
+    <phone>716-352-7806</phone>
+    <email>xuehao89@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>4</id>
+    <since>09/03/2014</since>
+    <firstName>Pete</firstName>
+    <lastName>Spearman</lastName>
+    <sex>Male</sex>
+    <dob>07/26/1992</dob>
+    <password>qswd</password>
+    <address>6768 Bear Ridge Rd.</address>
+    <city>Pendleton</city>
+    <state>NY</state>
+    <zip>14094</zip>
+    <phone>716-622-8896</phone>
+    <email>spearpj45@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>5.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>06/27/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/01/2014 20:34</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 10/01/2014</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 21:03</date>
+        <amount>-27.5</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 19:03</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 11/06/2014</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 19:04</date>
+        <amount>-27.5</amount>
+        <memo>redone membership after bug</memo>
+      </charge>
+      <charge>
+        <date>11/10/2014 19:09</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 12/10/2014</memo>
+      </charge>
+      <charge>
+        <date>11/10/2014 21:09</date>
+        <amount>-27.5</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 18:24</date>
+        <amount>-15.0</amount>
+        <memo>tournament refund</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 21:04</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/08/2015 (for [47] spearman, karen                  )</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 21:05</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/08/2015 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 21:07</date>
+        <amount>-13.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 18:49</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 19:10</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 01/10/2015</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 19:11</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [47] spearman, karen)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:05</date>
+        <amount>12.0</amount>
+        <memo>reserved [48] Axberg, Cole lesson for 12/15/2014 @8:30 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:06</date>
+        <amount>-48.75</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 12/24/2014</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/24/2014 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 19:11</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/14/2015 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 19:13</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/14/2015 (for [47] spearman, karen)</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 19:14</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/14/2015</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 19:34</date>
+        <amount>-40.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:18</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 03/18/2015 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:19</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 03/18/2015</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:24</date>
+        <amount>15.0</amount>
+        <memo>balance transfer from sponsored player [64] Axberg, Ben</memo>
+      </charge>
+      <charge>
+        <date>03/07/2015 17:10</date>
+        <amount>-30.0</amount>
+        <memo>February tournament winnings</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:32</date>
+        <amount>3.0</amount>
+        <memo>box of balls</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 19:12</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/18/2015</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 19:15</date>
+        <amount>-32.25</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 19:35</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/18/2015 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 21:02</date>
+        <amount>-15.0</amount>
+        <memo>Cole membership</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 19:17</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/22/2015 (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 19:17</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/22/2015 (for [64] Axberg, Ben)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 19:24</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/22/2015</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:48</date>
+        <amount>-45.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>05/22/2015 21:09</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [48] Axberg, Cole)</memo>
+      </charge>
+      <charge>
+        <date>05/27/2015 19:11</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 06/27/2015</memo>
+      </charge>
+      <charge>
+        <date>05/27/2015 19:13</date>
+        <amount>-20.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 20:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 19:02</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 21:39</date>
+        <amount>-10.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 18:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 18:53</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/17/2015 19:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>5</id>
+    <since>09/01/2014</since>
+    <firstName>Adam</firstName>
+    <lastName>Cesar</lastName>
+    <sex>Male</sex>
+    <dob>07/13/1984</dob>
+    <password />
+    <address>562 East Schenck Street</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-983-3363</phone>
+    <email>amc0155@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>permanent</memType>
+      <memExp>01/01/2100</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>6</id>
+    <since>09/01/2014</since>
+    <firstName>Youngsoo</firstName>
+    <lastName>Choi</lastName>
+    <sex>Male</sex>
+    <dob>03/24/1965</dob>
+    <password>7538787</password>
+    <address>7316 Winbert Dr</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-694-1059</phone>
+    <email>yxc168@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-5.75</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>02/12/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/26/2014 20:07</date>
+        <amount>-20.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>09/26/2014 20:07</date>
+        <amount>24.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/01/2014 @7:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>09/26/2014 20:08</date>
+        <amount>-24.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 09/29/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>09/26/2014 20:08</date>
+        <amount>20.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 09:09</date>
+        <amount>-20.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 10/01/2014 @7:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 09:09</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 09:09</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 09:09</date>
+        <amount>20.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/01/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/06/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/13/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/20/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/27/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>20.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/29/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>20.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/10/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>20.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/17/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:26</date>
+        <amount>20.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 10/24/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:28</date>
+        <amount>-80.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>10/14/2014 11:17</date>
+        <amount>-20.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 10/13/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/14/2014 11:17</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/14/2014 11:17</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:13</date>
+        <amount>-20.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 10/29/2014 @8:30 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:13</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [7] Kim, Jeewon lessons (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 11/03/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 11/10/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 11/17/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 21:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 11/24/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 19:45</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 12/05/2014</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 19:46</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 12/05/2014 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 19:49</date>
+        <amount>-62.5</amount>
+        <memo>memberships and lessons</memo>
+      </charge>
+      <charge>
+        <date>11/19/2014 13:32</date>
+        <amount>-12.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 11/17/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/19/2014 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 18:22</date>
+        <amount>-12.0</amount>
+        <memo>canceled [7] Kim, Jeewon lesson for 11/24/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 18:22</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 11/26/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:01</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/28/2014</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:01</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/28/2014 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 20:51</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 20:56</date>
+        <amount>-5.0</amount>
+        <memo>waived member fee</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 18:41</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 12/10/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 20:58</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 01/10/2015</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 20:59</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/10/2015 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 12/15/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 12/22/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 12/29/2014 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:01</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 01/05/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 21:02</date>
+        <amount>-79.0</amount>
+        <memo>membership and lessons</memo>
+      </charge>
+      <charge>
+        <date>12/19/2014 21:01</date>
+        <amount>27.5</amount>
+        <memo>balance transfer from sponsored player [51] Choi, ChangHyun</memo>
+      </charge>
+      <charge>
+        <date>12/19/2014 21:01</date>
+        <amount>-27.5</amount>
+        <memo>son's membership</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 12/24/2014</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/24/2014 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 12/24/2014 (for [51] Choi, ChangHyun)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:56</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 02/12/2015</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:56</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/12/2015 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 01/12/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 01/19/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 01/26/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 02/02/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [7] Kim, Jeewon lesson for 02/09/2015 @8:00 (for [7] Kim, Jeewon)</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 19:54</date>
+        <amount>-94.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>01/31/2015 14:53</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 01/30/2015</memo>
+      </charge>
+      <charge>
+        <date>01/31/2015 14:53</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 01/30/2015 (for [7] Kim, Jeewon)</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>7</id>
+    <since>09/01/2014</since>
+    <firstName>Jeewon</firstName>
+    <lastName>Kim</lastName>
+    <sex>Female</sex>
+    <dob>03/02/1967</dob>
+    <password>7538787</password>
+    <address>7316 Winbert Dr</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-694-1059</phone>
+    <email>yxc168@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>6</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>02/12/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>8</id>
+    <since>09/08/2014</since>
+    <firstName>Dustin</firstName>
+    <lastName>Zemaitis</lastName>
+    <sex>Male</sex>
+    <dob>01/15/1990</dob>
+    <password>dustin</password>
+    <address>115 Scotch Lane</address>
+    <city>Rochester</city>
+    <state>NY</state>
+    <zip>14617</zip>
+    <phone>585-730-2248</phone>
+    <email>djz115@gmail.com</email>
+    <rating>1833</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>9</id>
+    <since>09/08/2014</since>
+    <firstName>Cliff</firstName>
+    <lastName>Falk</lastName>
+    <sex>Male</sex>
+    <dob>05/26/1958</dob>
+    <password />
+    <address>3749 West River Road</address>
+    <city>Grand Island</city>
+    <state>NY</state>
+    <zip>14072</zip>
+    <phone>716-210-8404</phone>
+    <email>oofus2002@yahoo.com</email>
+    <rating>1665</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>03/09/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/13/2014 19:24</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/13/2014 19:25</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 21:00</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 21:12</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 21:01</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 19:10</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 19:11</date>
+        <amount>-10.0</amount>
+        <memo>visitor fees</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 20:24</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 20:24</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/02/2015 19:46</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/02/2015 19:50</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/04/2015 20:08</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/04/2015 20:43</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/09/2015 19:37</date>
+        <amount>24.75</amount>
+        <memo>2-day membership until 03/09/2015</memo>
+      </charge>
+      <charge>
+        <date>02/09/2015 19:39</date>
+        <amount>-24.75</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 19:39</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 21:26</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:49</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:56</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>10</id>
+    <since>09/08/2014</since>
+    <firstName>Yong</firstName>
+    <lastName>Ren</lastName>
+    <sex>Male</sex>
+    <dob>11/19/1964</dob>
+    <password />
+    <address>141 Brookdale Drive</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-462-4195</phone>
+    <email>yongren99@yahoo.com</email>
+    <rating>2399</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>09/10/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/06/2014 20:58</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 11/10/2014</memo>
+      </charge>
+      <charge>
+        <date>10/08/2014 17:19</date>
+        <amount>-18.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 19:32</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 11/24/2014 (for [21] Lee, Sunny)</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 20:08</date>
+        <amount>-18.0</amount>
+        <memo>Sunny's membership</memo>
+      </charge>
+      <charge>
+        <date>11/10/2014 19:21</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 12/15/2014</memo>
+      </charge>
+      <charge>
+        <date>11/17/2014 19:29</date>
+        <amount>-18.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:25</date>
+        <amount>-18.0</amount>
+        <memo>tournament refund</memo>
+      </charge>
+      <charge>
+        <date>11/26/2014 18:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [21] Lee, Sunny)</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:01</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/28/2014</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 19:30</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 01/19/2015</memo>
+      </charge>
+      <charge>
+        <date>12/22/2014 19:11</date>
+        <amount>-2.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>01/26/2015 19:56</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/26/2015</memo>
+      </charge>
+      <charge>
+        <date>01/26/2015 19:56</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/09/2015 19:28</date>
+        <amount>24.0</amount>
+        <memo>1-day membership until 04/28/2015</memo>
+      </charge>
+      <charge>
+        <date>03/09/2015 21:49</date>
+        <amount>-24.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+      <charge>
+        <date>05/04/2015 19:12</date>
+        <amount>27.0</amount>
+        <memo>1-day membership until 06/30/2015</memo>
+      </charge>
+      <charge>
+        <date>05/04/2015 19:13</date>
+        <amount>-24.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 19:12</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 08/06/2015</memo>
+      </charge>
+      <charge>
+        <date>07/20/2015 21:17</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 20:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 09/10/2015</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 21:15</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>11</id>
+    <since>09/03/2014</since>
+    <firstName>Alex</firstName>
+    <lastName>Liu</lastName>
+    <sex>Male</sex>
+    <dob>10/19/2003</dob>
+    <password>buffalo8</password>
+    <address>172 Viscount Drive</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-201-9423</phone>
+    <email>alex.liu81234@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>55</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 10/03/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 10/10/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 10/17/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 10/24/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 10/31/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:02</date>
+        <amount>-60.0</amount>
+        <memo>October Lessons</memo>
+      </charge>
+      <charge>
+        <date>10/31/2014 20:01</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 11/07/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 11/14/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 11/21/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:59</date>
+        <amount>-24.0</amount>
+        <memo>waived lesson fees</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:01</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 12/05/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 12/12/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 12/19/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:03</date>
+        <amount>-36.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 18:29</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 01/09/2015 @7:30</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 01/16/2015 @7:00</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 01/23/2015 @7:00</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>12</id>
+    <since>09/03/2014</since>
+    <firstName>Eric</firstName>
+    <lastName>Liu</lastName>
+    <sex>Male</sex>
+    <dob>05/21/2006</dob>
+    <password />
+    <address>172 Viscount Dr</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-201-9423</phone>
+    <email>alex.liu81234@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>55</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 10/03/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 10/10/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 10/17/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 10/24/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:00</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 10/31/2014 @7:00</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 19:02</date>
+        <amount>-60.0</amount>
+        <memo>October Lessons</memo>
+      </charge>
+      <charge>
+        <date>10/31/2014 20:01</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 11/07/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:58</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 11/14/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:58</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 11/21/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:59</date>
+        <amount>-24.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:01</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 12/05/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 12/12/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 12/19/2014 @7:30</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:02</date>
+        <amount>-36.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 18:29</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 01/09/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 01/16/2015 @7:30</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 01/23/2015 @7:30</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>13</id>
+    <since>09/08/2014</since>
+    <firstName>Junqi</firstName>
+    <lastName>Wu</lastName>
+    <sex>Male</sex>
+    <dob>04/21/2002</dob>
+    <password>0421</password>
+    <address>93 Garnet Rd</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>716-228-8380</phone>
+    <email />
+    <rating>487</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>16</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>11/15/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>14</id>
+    <since>09/08/2014</since>
+    <firstName>Jun</firstName>
+    <lastName>Li</lastName>
+    <sex>Male</sex>
+    <dob>10/11/1971</dob>
+    <password>jl1011875058JLmp</password>
+    <address>235 South Union Road</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>813-481-5418</phone>
+    <email>junliamerica@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>81.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/03/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/20/2014 17:13</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 10/20/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 10/27/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:14</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:14</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 10/22/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:14</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:14</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 10/29/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 17:18</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/20/2014</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 18:38</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/20/2014 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:55</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/03/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:56</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:56</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/05/2014 @7:00 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:56</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/10/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>-20.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>24.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/07/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/12/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/17/2014 @7:00 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:57</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/19/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>-24.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/03/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>20.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/17/2014 @7:00 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/17/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:58</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/24/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:59</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 18:59</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 11/26/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:55</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/07/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 18:55</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/19/2014 13:32</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/17/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/19/2014 13:32</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/19/2014 13:32</date>
+        <amount>-12.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/19/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 19:47</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 19:48</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 20:29</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 11/24/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 20:29</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 20:32</date>
+        <amount>-124.0</amount>
+        <memo>membership and lesson balance</memo>
+      </charge>
+      <charge>
+        <date>11/26/2014 19:27</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:32</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/03/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:32</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/08/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:32</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:32</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/10/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:32</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/15/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/17/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/22/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/24/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 12/24/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:33</date>
+        <amount>12.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/29/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:34</date>
+        <amount>-12.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 12/29/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:43</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:43</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/01/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 19:20</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 12/08/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 19:20</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 20:05</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/03/2015</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 18:38</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 18:38</date>
+        <amount>20.0</amount>
+        <memo>reserved [15] Li, Jeffery (Jicheng) lesson for 12/08/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 19:24</date>
+        <amount>-20.0</amount>
+        <memo>canceled [15] Li, Jeffery (Jicheng) lesson for 12/15/2014 @7:30 (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 19:24</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [15] Li, Jeffery (Jicheng) lessons (for [15] Li, Jeffery (Jicheng))</memo>
+      </charge>
+      <charge>
+        <date>12/31/2014 18:30</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/31/2014</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>15</id>
+    <since>09/08/2014</since>
+    <firstName>Jeffery (Jicheng)</firstName>
+    <lastName>Li</lastName>
+    <sex>Male</sex>
+    <dob>08/06/2002</dob>
+    <password>jefferyliRKOS86</password>
+    <address>235 South Union Road</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>813-481-5418</phone>
+    <email>junliamerica@gmail.com</email>
+    <rating>408</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>14</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>11/20/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>17</id>
+    <since>09/08/2014</since>
+    <firstName>James</firstName>
+    <lastName>Kim</lastName>
+    <sex>Male</sex>
+    <dob>07/19/1990</dob>
+    <password>hellojames</password>
+    <address>28 Durham Dr. Apt. A</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>716-807-8883</phone>
+    <email>jamesdkim.220@gmail.com</email>
+    <rating>1482</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/08/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>12/08/2014 19:07</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/08/2015</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 20:51</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>12/31/2014 18:30</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/31/2014</memo>
+      </charge>
+      <charge>
+        <date>05/15/2015 19:52</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>05/15/2015 21:08</date>
+        <amount>-2.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/12/2015 22:30</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/12/2015 22:31</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>16</id>
+    <since>09/08/2014</since>
+    <firstName>Jiannan</firstName>
+    <lastName>Wu</lastName>
+    <sex>Male</sex>
+    <dob>04/27/1970</dob>
+    <password>0421</password>
+    <address>93 Garnet Rd.</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>716-228-8380</phone>
+    <email>jiannan.wu@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-5.5</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>12/07/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/06/2014 20:03</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/06/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 20:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 20:04</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/07/2014</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/13/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/20/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/27/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 21:24</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 11/06/2014</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 21:28</date>
+        <amount>-75.5</amount>
+        <memo>lessons and membership</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 20:51</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/15/2014 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 20:54</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/15/2014 (for [41] zhou, aili)</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 20:55</date>
+        <amount>-30.0</amount>
+        <memo>memberships</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 20:09</date>
+        <amount>-12.0</amount>
+        <memo>canceled [13] Wu, Junqi lesson for 10/20/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 20:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/24/2014 @8:30 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/24/2014 21:25</date>
+        <amount>-12.0</amount>
+        <memo>canceled [13] Wu, Junqi lesson for 10/27/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/24/2014 21:25</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 10/31/2014 @8:00 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>10/31/2014 20:01</date>
+        <amount>-12.0</amount>
+        <memo>canceled [13] Wu, Junqi lesson for 10/31/2014 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 10/31/2014 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 10/31/2014 (for [41] zhou, aili)</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 19:43</date>
+        <amount>12.0</amount>
+        <memo>reserved [13] Wu, Junqi lesson for 11/03/2014 @8:30 (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 20:47</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 20:49</date>
+        <amount>24.75</amount>
+        <memo>2-day membership until 12/07/2014</memo>
+      </charge>
+      <charge>
+        <date>11/07/2014 20:50</date>
+        <amount>-21.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:01</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/28/2014</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 20:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [13] Wu, Junqi)</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 20:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 20:54</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [41] Zhou, Aili)</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 21:47</date>
+        <amount>-20.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>12/29/2014 21:15</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [41] Zhou, Aili)</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>19</id>
+    <since>09/05/2014</since>
+    <firstName>Robert</firstName>
+    <lastName>Hairston</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1992</dob>
+    <password />
+    <address>734 Richmond Ave.</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14222</zip>
+    <phone>716-462-1592</phone>
+    <email>henryh2140@roadrunner.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/05/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/23/2014 21:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 09/17/2014</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:16</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:17</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/24/2014 19:01</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/24/2014 19:03</date>
+        <amount>-2.25</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 18:50</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 18:50</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/05/2014 19:49</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 01/05/2015</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 20:48</date>
+        <amount>-18.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>12/12/2014 19:12</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/24/2014</memo>
+      </charge>
+      <charge>
+        <date>12/31/2014 18:30</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 12/31/2014</memo>
+      </charge>
+      <charge>
+        <date>01/09/2015 19:14</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/09/2015 19:48</date>
+        <amount>-4.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 18:42</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 18:42</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/23/2015 19:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/23/2015 20:06</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 21:09</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 21:13</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/13/2015 21:14</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/13/2015 21:14</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:28</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:29</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/27/2015 20:33</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/27/2015 20:33</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 20:37</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 20:38</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:42</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:42</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>18</id>
+    <since>09/08/2014</since>
+    <firstName>Frank</firstName>
+    <lastName>Tang</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1992</dob>
+    <password>frank</password>
+    <address>106 Churchcroft Ln.</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-903-1616</phone>
+    <email>fstang68@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/29/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/19/2014 20:38</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 09/22/2014 @8:00</memo>
+      </charge>
+      <charge>
+        <date>09/24/2014 21:12</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 09/29/2014 @8:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 09:13</date>
+        <amount>-24.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>10/01/2014 20:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 10/06/2014 @7:30 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 16:03</date>
+        <amount>-17.0</amount>
+        <memo>adjustment</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:12</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:13</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 21:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 10/13/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/17/2014 19:13</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/17/2014 20:50</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/17/2014 20:53</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 11/17/2014</memo>
+      </charge>
+      <charge>
+        <date>10/17/2014 20:55</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 10/20/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 14:18</date>
+        <amount>-12.0</amount>
+        <memo>canceled [23] Tang, David lesson for 10/20/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 18:39</date>
+        <amount>-39.5</amount>
+        <memo>membership and lessons</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 20:20</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 20:38</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 20:38</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/22/2014 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 20:39</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 10/27/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 20:40</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 10/20/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:07</date>
+        <amount>-39.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 13:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 11/03/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>11/10/2014 14:11</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 11/10/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/19/2014 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 19:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 12/24/2014 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 19:10</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 12/24/2014</memo>
+      </charge>
+      <charge>
+        <date>11/26/2014 18:29</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 11/26/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>11/26/2014 20:56</date>
+        <amount>-72.75</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:01</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/28/2014</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 18:39</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 12/08/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>12/15/2014 18:44</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 12/15/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>12/29/2014 19:08</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 12/29/2014 @7:00 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>12/29/2014 20:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 19:57</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 20:47</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 02/02/2015</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 20:47</date>
+        <amount>-70.75</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>01/26/2015 19:52</date>
+        <amount>12.0</amount>
+        <memo>reserved [23] Tang, David lesson for 01/26/2015 @7:30 (for [23] Tang, David)</memo>
+      </charge>
+      <charge>
+        <date>01/26/2015 20:34</date>
+        <amount>-12.0</amount>
+        <memo>lesson</memo>
+      </charge>
+      <charge>
+        <date>02/23/2015 19:31</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/23/2015 21:28</date>
+        <amount>24.75</amount>
+        <memo>2-day membership until 03/23/2015</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 21:03</date>
+        <amount>-29.75</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 20:58</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 04/25/2015</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 20:59</date>
+        <amount>-27.5</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 19:04</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 19:05</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/29/2015 20:52</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/29/2015 20:53</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/29/2015 20:54</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 05/29/2015</memo>
+      </charge>
+      <charge>
+        <date>04/29/2015 20:54</date>
+        <amount>-24.75</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>21</id>
+    <since>09/08/2014</since>
+    <firstName>Sunny</firstName>
+    <lastName>Lee</lastName>
+    <sex>Male</sex>
+    <dob>03/26/1959</dob>
+    <password />
+    <address>57 Heritage</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>09/10/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>12/01/2014 20:06</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 01/05/2015</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 20:45</date>
+        <amount>-18.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 20:12</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/26/2015 19:55</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 22:05</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 22:06</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/13/2015 20:09</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/13/2015 21:39</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/08/2015 19:32</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 08/08/2015</memo>
+      </charge>
+      <charge>
+        <date>06/08/2015 21:08</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 20:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 09/10/2015</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 21:16</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>20</id>
+    <since>09/05/2014</since>
+    <firstName>Cyrus</firstName>
+    <lastName>Chvala</lastName>
+    <sex>Male</sex>
+    <dob>05/19/1958</dob>
+    <password />
+    <address>228 Rosemont Ave</address>
+    <city>Kenmore</city>
+    <state>NY</state>
+    <zip>14217</zip>
+    <phone>716-830-2003</phone>
+    <email>cychvala@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>09/05/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/23/2014 21:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 09/17/2014</memo>
+      </charge>
+      <charge>
+        <date>09/24/2014 21:30</date>
+        <amount>0.5</amount>
+        <memo>water</memo>
+      </charge>
+      <charge>
+        <date>10/08/2014 19:07</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/08/2014</memo>
+      </charge>
+      <charge>
+        <date>10/08/2014 19:09</date>
+        <amount>-12.75</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/12/2014 19:05</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 12/17/2014</memo>
+      </charge>
+      <charge>
+        <date>11/12/2014 19:06</date>
+        <amount>-18.0</amount>
+        <memo>membersip</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>01/07/2015 19:42</date>
+        <amount>27.0</amount>
+        <memo>1-day membership until 03/04/2015</memo>
+      </charge>
+      <charge>
+        <date>01/07/2015 21:41</date>
+        <amount>-24.0</amount>
+        <memo>memership</memo>
+      </charge>
+      <charge>
+        <date>05/06/2015 19:53</date>
+        <amount>24.0</amount>
+        <memo>1-day membership until 06/24/2015</memo>
+      </charge>
+      <charge>
+        <date>05/06/2015 19:54</date>
+        <amount>-25.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 20:04</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 18:58</date>
+        <amount>-4.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 19:03</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 09/05/2015</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 19:05</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>23</id>
+    <since>09/10/2014</since>
+    <firstName>David</firstName>
+    <lastName>Tang</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1992</dob>
+    <password />
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>18</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>12/24/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>22</id>
+    <since>09/08/2014</since>
+    <firstName>Zongqing</firstName>
+    <lastName>Zhou</lastName>
+    <sex>Male</sex>
+    <dob>05/10/1957</dob>
+    <password>Zee2000z</password>
+    <address>78 Ashworth Ct.</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>716-523-9276</phone>
+    <email>rooozee@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.25</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/15/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/22/2014 21:49</date>
+        <amount>57.75</amount>
+        <memo>2-day membership until 12/01/2014</memo>
+      </charge>
+      <charge>
+        <date>09/22/2014 21:49</date>
+        <amount>-55.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 20:56</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 01/03/2015</memo>
+      </charge>
+      <charge>
+        <date>12/12/2014 21:20</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/26/2014 22:27</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 12/24/2014</memo>
+      </charge>
+      <charge>
+        <date>01/05/2015 19:38</date>
+        <amount>44.0</amount>
+        <memo>2-day membership until 02/28/2015</memo>
+      </charge>
+      <charge>
+        <date>01/19/2015 18:59</date>
+        <amount>-71.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 20:30</date>
+        <amount>33.0</amount>
+        <memo>2-day membership until 04/08/2015</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:06</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 05/15/2015</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:10</date>
+        <amount>-5.0</amount>
+        <memo>error refund</memo>
+      </charge>
+      <charge>
+        <date>04/08/2015 19:12</date>
+        <amount>-33.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 19:29</date>
+        <amount>-15.0</amount>
+        <memo>membership refund (cancellation)</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>25</id>
+    <since>09/10/2014</since>
+    <firstName>Timothy</firstName>
+    <lastName>Ng</lastName>
+    <sex>Male</sex>
+    <dob>06/19/1990</dob>
+    <password>impala</password>
+    <address>199 Kaymar Dr.</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>716-748-9923</phone>
+    <email>timo_ng90@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>24</id>
+    <since>09/10/2014</since>
+    <firstName>Han Ping (Derrick)</firstName>
+    <lastName>Ong</lastName>
+    <sex>Male</sex>
+    <dob>11/09/1988</dob>
+    <password>5ok@vitaR</password>
+    <address>199 Kaymar Dr.</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>7168168476</phone>
+    <email>hanpingd@buffalo.edu</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>27</id>
+    <since>09/10/2014</since>
+    <firstName>Steven</firstName>
+    <lastName>Tan</lastName>
+    <sex>Male</sex>
+    <dob>08/16/1993</dob>
+    <password>woshitxd</password>
+    <address>4437 Chestnut Ridge rd apt6</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>7162625591</phone>
+    <email>steventanxd@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>26</id>
+    <since>09/10/2014</since>
+    <firstName>Willian</firstName>
+    <lastName>Sueyasu</lastName>
+    <sex>Male</sex>
+    <dob>01/27/1994</dob>
+    <password>taiki</password>
+    <address>283 American Campus Drive</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>716-548-8285</phone>
+    <email />
+    <rating>2224</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>29</id>
+    <since>09/10/2014</since>
+    <firstName>Jian</firstName>
+    <lastName>Clemente</lastName>
+    <sex>Male</sex>
+    <dob>11/17/1992</dob>
+    <password>1719jian</password>
+    <address>103JB Hadley Village University at Buffalo</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14261</zip>
+    <phone>716-261-5459</phone>
+    <email>jiancoli@buffalo.edu</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>28</id>
+    <since>09/10/2014</since>
+    <firstName>Daiki</firstName>
+    <lastName>Kamakura</lastName>
+    <sex>Male</sex>
+    <dob>11/27/1990</dob>
+    <password>dk1127</password>
+    <address>4357 Chestnut Ridge Road</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>585-300-3707</phone>
+    <email>daikikam@buffalo.edu</email>
+    <rating>1770</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>02/18/2015 21:44</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 21:45</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>31</id>
+    <since>09/10/2014</since>
+    <firstName>Dan</firstName>
+    <lastName>Spearman</lastName>
+    <sex>Male</sex>
+    <dob>09/25/1964</dob>
+    <password>dan</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone>716-430-7200</phone>
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>10/10/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/23/2014 21:37</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 09/17/2014</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 19:16</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 19:17</date>
+        <amount>-3.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:57</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:57</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:04</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:04</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 20:42</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/05/2014 21:47</date>
+        <amount>-4.25</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/12/2014 19:10</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>11/12/2014 19:11</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 19:05</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 19:05</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/17/2014 20:56</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/17/2014 21:28</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/07/2015 20:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/07/2015 20:03</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 21:37</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 21:38</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 21:17</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 21:18</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 21:14</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 21:14</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:44</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:44</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:17</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:17</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 21:01</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 21:01</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:15</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:15</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>30</id>
+    <since>09/10/2014</since>
+    <firstName>Rick</firstName>
+    <lastName>Schmitz</lastName>
+    <sex>Male</sex>
+    <dob>07/11/1992</dob>
+    <password>123456789</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email>rickmanf@buffalo.edu</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>34</id>
+    <since>09/24/2014</since>
+    <firstName>Ken</firstName>
+    <lastName>Smith</lastName>
+    <sex>Male</sex>
+    <dob>05/09/1957</dob>
+    <password />
+    <address>36 Dale Dr</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-692-8751</phone>
+    <email>kjssrnton@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/24/2014 19:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>09/24/2014 19:04</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:52</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:52</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>35</id>
+    <since>09/24/2014</since>
+    <firstName>Jim</firstName>
+    <lastName>Scherer</lastName>
+    <sex>Male</sex>
+    <dob>02/01/1962</dob>
+    <password>googong1</password>
+    <address>9 Apollo drive</address>
+    <city />
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>716-430-3132</phone>
+    <email>jscherer1962@verizon.net</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-5.5</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>11/29/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/24/2014 20:49</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 10/24/2014</memo>
+      </charge>
+      <charge>
+        <date>09/26/2014 20:59</date>
+        <amount>-27.5</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:09</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 11/29/2014</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:10</date>
+        <amount>-27.5</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/03/2014 12:59</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 10/31/2014</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>32</id>
+    <since>09/13/2014</since>
+    <firstName>Teresa</firstName>
+    <lastName>Nagel</lastName>
+    <sex>Female</sex>
+    <dob>05/27/1982</dob>
+    <password>52782ray</password>
+    <address>67 Potter Rd.</address>
+    <city>Machias</city>
+    <state>NY</state>
+    <zip>14101</zip>
+    <phone>716-353-2851</phone>
+    <email>teresa.nagel@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/02/2015 18:37</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 18:45</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>33</id>
+    <since>09/15/2014</since>
+    <firstName>Robert</firstName>
+    <lastName>Parr</lastName>
+    <sex>Male</sex>
+    <dob>03/10/1946</dob>
+    <password />
+    <address>109glen</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-445-2090</phone>
+    <email>mayorparr@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/28/2015 18:57</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 18:57</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:00</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:00</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>38</id>
+    <since>10/06/2014</since>
+    <firstName>Wencui (Wendy)</firstName>
+    <lastName>Han</lastName>
+    <sex>Female</sex>
+    <dob>03/14/1984</dob>
+    <password />
+    <address>246 Montrose Ave. apt 3</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14223</zip>
+    <phone>917-605-9091</phone>
+    <email>wencuihan@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/06/2014 22:16</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/06/2014 22:16</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:55</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:56</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:04</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>39</id>
+    <since>10/13/2014</since>
+    <firstName>Mark</firstName>
+    <lastName>Wu</lastName>
+    <sex>Male</sex>
+    <dob>04/22/1968</dob>
+    <password>1234</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-10.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/13/2014 19:13</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/13/2014 20:06</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 18:55</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 18:56</date>
+        <amount>-20.0</amount>
+        <memo>advance visitor fees</memo>
+      </charge>
+      <charge>
+        <date>12/01/2014 19:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>36</id>
+    <since>09/26/2014</since>
+    <firstName>Kenny</firstName>
+    <lastName>Stefanski</lastName>
+    <sex>Male</sex>
+    <dob>07/05/1951</dob>
+    <password />
+    <address>473 Fairmont Ave.</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-692-3042</phone>
+    <email>knnstef@aol.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>04/18/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>09/26/2014 20:48</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>09/26/2014 20:49</date>
+        <amount>-5.0</amount>
+        <memo>waived fee</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 18:54</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 18:56</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 18:56</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/15/2014</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 18:57</date>
+        <amount>-10.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 19:02</date>
+        <amount>-5.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:59</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:59</date>
+        <amount>-5.0</amount>
+        <memo>extra visit</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 18:56</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 18:57</date>
+        <amount>-5.0</amount>
+        <memo>extra visit</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 18:31</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/03/2015</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 18:32</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 18:52</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/14/2015</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 18:53</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:56</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 03/18/2015</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:56</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 18:55</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/18/2015</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 18:57</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>37</id>
+    <since>10/03/2014</since>
+    <firstName>Gregory</firstName>
+    <lastName>Cosby</lastName>
+    <sex>Male</sex>
+    <dob>05/23/1952</dob>
+    <password>sag</password>
+    <address>2642 Bailey AVE</address>
+    <city>bUFFALO</city>
+    <state>NY</state>
+    <zip>14215</zip>
+    <phone>716 536 7367</phone>
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/03/2014 18:55</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/03/2014 18:56</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:18</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/10/2014 20:18</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>42</id>
+    <since>10/29/2014</since>
+    <firstName>Bryan</firstName>
+    <lastName>Mika</lastName>
+    <sex>Male</sex>
+    <dob>07/30/1981</dob>
+    <password>Tnerb1717</password>
+    <address>95a Oakbrook Dr.</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-909-3861</phone>
+    <email>bryan.mika@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-17.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>11/29/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/29/2014 18:34</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/29/2014</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 18:34</date>
+        <amount>-14.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>11/24/2014 18:25</date>
+        <amount>-15.0</amount>
+        <memo>tournament refund</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>43</id>
+    <since>10/29/2014</since>
+    <firstName>Mario</firstName>
+    <lastName>Fernandez</lastName>
+    <sex>Male</sex>
+    <dob>08/20/1953</dob>
+    <password>quillota</password>
+    <address>51 Candlewood ln</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>716-9123557</phone>
+    <email>mrbigkick@aol.ccom</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/03/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/29/2014 21:34</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 11/29/2014</memo>
+      </charge>
+      <charge>
+        <date>10/29/2014 21:34</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>11/21/2014 15:20</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 11/19/2014</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 19:53</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/03/2015</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 21:04</date>
+        <amount>-12.0</amount>
+        <memo>membership</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>40</id>
+    <since>10/15/2014</since>
+    <firstName>Ken</firstName>
+    <lastName>Stefanski Jr</lastName>
+    <sex>Male</sex>
+    <dob>09/10/1978</dob>
+    <password>Marina99</password>
+    <address>64 Clark Street</address>
+    <city>Tonawanda</city>
+    <state>NY</state>
+    <zip>14150</zip>
+    <phone>716-550-1978</phone>
+    <email>Instantperception@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>04/18/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>10/15/2014 18:59</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/15/2014 18:59</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 19:00</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/20/2014 19:00</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:53</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/22/2014 18:53</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 18:57</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>10/27/2014 18:57</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 18:34</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/03/2015</memo>
+      </charge>
+      <charge>
+        <date>12/03/2014 18:35</date>
+        <amount>-5.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>12/10/2014 18:34</date>
+        <amount>-10.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 18:45</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/14/2015</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 18:45</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:55</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 03/18/2015</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:55</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 18:58</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/18/2015</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 18:58</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>41</id>
+    <since>10/15/2014</since>
+    <firstName>Aili</firstName>
+    <lastName>Zhou</lastName>
+    <sex>Female</sex>
+    <dob>01/01/1992</dob>
+    <password>0421</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>16</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>11/15/2014</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>46</id>
+    <since>12/03/2014</since>
+    <firstName>Joe</firstName>
+    <lastName>Walkanski</lastName>
+    <sex>Male</sex>
+    <dob>01/07/1975</dob>
+    <password>ironmaiden</password>
+    <address>17 Franklin</address>
+    <city>Sloan</city>
+    <state>NY</state>
+    <zip>14225</zip>
+    <phone>7166315834</phone>
+    <email>jwalkowski9@juno.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>47</id>
+    <since>12/08/2014</since>
+    <firstName>karen</firstName>
+    <lastName>spearman</lastName>
+    <sex>Female</sex>
+    <dob>04/01/1968</dob>
+    <password />
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>4</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>02/14/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>44</id>
+    <since>11/26/2014</since>
+    <firstName>Zachary</firstName>
+    <lastName>Lee</lastName>
+    <sex>Male</sex>
+    <dob>04/04/1996</dob>
+    <password>F*xtrot96er</password>
+    <address>56 Heritage Road West</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone />
+    <email>zitiel@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/22/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>12/22/2014 19:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 01/22/2015</memo>
+      </charge>
+      <charge>
+        <date>12/22/2014 19:10</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 19:35</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 21:23</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 21:24</date>
+        <amount>-10.0</amount>
+        <memo>visitor fees</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>45</id>
+    <since>12/03/2014</since>
+    <firstName>alex</firstName>
+    <lastName>fernandez</lastName>
+    <sex>Male</sex>
+    <dob>03/09/1979</dob>
+    <password>3979</password>
+    <address>100 ellwood ave</address>
+    <city>buffalo</city>
+    <state>NY</state>
+    <zip>14223</zip>
+    <phone>7169135963</phone>
+    <email>aafernandez@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>51</id>
+    <since>12/19/2014</since>
+    <firstName>ChangHyun</firstName>
+    <lastName>Choi</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1995</dob>
+    <password>7538787</password>
+    <address>7316 Winbert Dr</address>
+    <city>N Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-694-1059</phone>
+    <email>yxc168@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-2.75</balance>
+    <sponsorId>6</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/19/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>12/19/2014 21:00</date>
+        <amount>27.5</amount>
+        <memo>2-day membership until 01/19/2015</memo>
+      </charge>
+      <charge>
+        <date>12/31/2014 18:30</date>
+        <amount>-2.75</amount>
+        <memo>Member refund for cancellation on 12/31/2014</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>50</id>
+    <since>12/19/2014</since>
+    <firstName>RIchard</firstName>
+    <lastName>Roman</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1983</dob>
+    <password>nelson53</password>
+    <address>345 Westgate Rd.</address>
+    <city>Kenmore</city>
+    <state>NY</state>
+    <zip>14217</zip>
+    <phone>7162138109</phone>
+    <email>rnroman@buffalo.edu</email>
+    <rating>1703</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>49</id>
+    <since>12/08/2014</since>
+    <firstName>Andre</firstName>
+    <lastName>Maronian</lastName>
+    <sex>Male</sex>
+    <dob>08/10/1973</dob>
+    <password>Andre123</password>
+    <address>100 Bent Oak Trail</address>
+    <city>Fairport</city>
+    <state>NY</state>
+    <zip>14450</zip>
+    <phone>5856156923</phone>
+    <email>andremaronian@gmail.com</email>
+    <rating>1889</rating>
+    <usatt>true</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>12/08/2014 19:27</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>12/08/2014 20:07</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>48</id>
+    <since>12/08/2014</since>
+    <firstName>Cole</firstName>
+    <lastName>Axberg</lastName>
+    <sex>Male</sex>
+    <dob>04/03/2001</dob>
+    <password>Coleaxberg</password>
+    <address>69 pine woods drive</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>7165637739</phone>
+    <email>hockeygoalie491@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>4</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/22/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>55</id>
+    <since>01/16/2015</since>
+    <firstName>Yingru</firstName>
+    <lastName>Liu</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1993</dob>
+    <password />
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/16/2015 20:36</date>
+        <amount>36.0</amount>
+        <memo>balance transfer from sponsored player [11] Liu, Alex</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:36</date>
+        <amount>36.0</amount>
+        <memo>balance transfer from sponsored player [12] Liu, Eric</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:37</date>
+        <amount>-72.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:39</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 01/09/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:39</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 01/09/2015 @8:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 20:40</date>
+        <amount>-24.0</amount>
+        <memo>lessons refund</memo>
+      </charge>
+      <charge>
+        <date>02/06/2015 19:11</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 02/06/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>02/06/2015 19:11</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 02/06/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>02/06/2015 19:11</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 02/27/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>02/06/2015 19:11</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 02/27/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 18:49</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 03/06/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 18:49</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 03/06/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 18:49</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 03/06/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 18:49</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 03/06/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:22</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 03/13/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:22</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 03/13/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:23</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 03/20/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:23</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 03/20/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:23</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 03/27/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>03/13/2015 20:23</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 03/27/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>03/20/2015 20:09</date>
+        <amount>-72.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 19:05</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 03/27/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>04/17/2015 18:56</date>
+        <amount>-12.0</amount>
+        <memo>lessons</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:13</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/01/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:13</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/01/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/08/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/08/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/15/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [11] Liu, Alex lessons (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>20.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/15/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/15/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>-12.0</amount>
+        <memo>adjusted price of [12] Liu, Eric lessons (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>20.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/15/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>-20.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 05/15/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [11] Liu, Alex lessons (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>-20.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 05/15/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>adjusted price of [12] Liu, Eric lessons (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 05/15/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/15/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/22/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:14</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/22/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 05/29/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 05/29/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 06/05/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 06/05/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 06/12/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 06/12/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 06/19/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 06/19/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 06/26/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>05/01/2015 20:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 06/26/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>06/19/2015 20:08</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 06/26/2015 @7:00 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>06/19/2015 20:08</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 06/26/2015 @7:30 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:04</date>
+        <amount>-192.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:08</date>
+        <amount>-24.0</amount>
+        <memo>cancellation refund</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 07/10/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 07/10/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 07/17/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 07/17/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 07/31/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:09</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 07/31/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 19:10</date>
+        <amount>-24.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:16</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 08/07/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 08/14/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 08/21/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [11] Liu, Alex lesson for 08/28/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 08/07/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 08/14/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 08/21/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>07/31/2015 20:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [12] Liu, Eric lesson for 08/28/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 08/07/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 08/07/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 08/14/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 08/14/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 08/21/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 08/21/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [11] Liu, Alex lesson for 08/28/2015 @7:00 (for [11] Liu, Alex)</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 18:23</date>
+        <amount>-12.0</amount>
+        <memo>canceled [12] Liu, Eric lesson for 08/28/2015 @7:30 (for [12] Liu, Eric)</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>54</id>
+    <since>01/14/2015</since>
+    <firstName>Bowen</firstName>
+    <lastName>Shen</lastName>
+    <sex>Male</sex>
+    <dob>10/09/1991</dob>
+    <password>matchpoint_shbw_911009</password>
+    <address>1400 millersport hwy</address>
+    <city>buffalo</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/14/2015 18:29</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/14/2015 21:36</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>53</id>
+    <since>01/02/2015</since>
+    <firstName>Greg</firstName>
+    <lastName>Gennuso</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1993</dob>
+    <password>greg</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone>716-830-9973</phone>
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/06/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/02/2015 19:49</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/02/2015 19:50</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/09/2015 19:02</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/09/2015 19:03</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 19:59</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/12/2015 20:00</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 19:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/16/2015 19:07</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>01/23/2015 19:19</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/23/2015 20:07</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>01/28/2015 18:58</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:59</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/06/2015</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 21:46</date>
+        <amount>-20.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>52</id>
+    <since>12/22/2014</since>
+    <firstName>Tyler</firstName>
+    <lastName>K</lastName>
+    <sex>Male</sex>
+    <dob>03/01/1987</dob>
+    <password>1</password>
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>59</id>
+    <since>02/11/2015</since>
+    <firstName>Loongsang</firstName>
+    <lastName>Choi</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1952</dob>
+    <password>fatfat888</password>
+    <address>133 Sandpiper Lane</address>
+    <city>Grand Island</city>
+    <state>NY</state>
+    <zip>14072</zip>
+    <phone>7163614422</phone>
+    <email>loongsang.choi@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>09/03/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/01/2015 18:51</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 07/01/2015</memo>
+      </charge>
+      <charge>
+        <date>06/01/2015 18:51</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 19:28</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 09/03/2015</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 19:28</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>58</id>
+    <since>02/04/2015</since>
+    <firstName>Joseph</firstName>
+    <lastName>DeBenedictis</lastName>
+    <sex>Male</sex>
+    <dob>10/05/1988</dob>
+    <password>hellome</password>
+    <address>468 delaware ave</address>
+    <city>buffalo</city>
+    <state>NY</state>
+    <zip>14202</zip>
+    <phone>7163528550</phone>
+    <email>josephdb11@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/06/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>02/09/2015 19:30</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/09/2015 19:33</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/11/2015 20:41</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/11/2015 20:41</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/16/2015 19:16</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/16/2015 19:16</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:15</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 19:16</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/23/2015 18:57</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/23/2015 18:59</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 19:05</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 19:06</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 19:09</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 19:09</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 19:18</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 19:19</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 19:30</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 19:24</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 21:28</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/06/2015</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 21:28</date>
+        <amount>-25.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>57</id>
+    <since>01/28/2015</since>
+    <firstName>James</firstName>
+    <lastName>Connolly</lastName>
+    <sex>Male</sex>
+    <dob>09/07/1980</dob>
+    <password>herbie8082</password>
+    <address>57 Newman St</address>
+    <city>Springville</city>
+    <state>NY</state>
+    <zip>14141</zip>
+    <phone>719-640-4852</phone>
+    <email>rfelitejfc@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>02/04/2015 19:03</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/04/2015 19:04</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/11/2015 18:54</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/11/2015 18:54</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:44</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/18/2015 18:44</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 18:51</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>02/25/2015 18:51</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>56</id>
+    <since>01/19/2015</since>
+    <firstName>josh</firstName>
+    <lastName>weatherall</lastName>
+    <sex>Male</sex>
+    <dob>08/15/1982</dob>
+    <password>Bowling838</password>
+    <address>9260 kristina circle</address>
+    <city>clarence center</city>
+    <state>NY</state>
+    <zip>14032</zip>
+    <phone>716-998-4294</phone>
+    <email>weatherman4294@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>02/26/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>01/26/2015 19:06</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 02/26/2015</memo>
+      </charge>
+      <charge>
+        <date>02/02/2015 18:47</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>63</id>
+    <since>02/25/2015</since>
+    <firstName>david</firstName>
+    <lastName>edwards</lastName>
+    <sex>Male</sex>
+    <dob>05/13/1960</dob>
+    <password>stretch123</password>
+    <address>3650 demler rd</address>
+    <city>no ton</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>417-7608</phone>
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-3.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>04/11/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/11/2015 20:28</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/11/2015</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:28</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:30</date>
+        <amount>12.0</amount>
+        <memo>reserved [63] edwards, david lesson for 03/18/2015 @9:00</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 20:31</date>
+        <amount>-12.0</amount>
+        <memo>lesson</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>62</id>
+    <since>02/23/2015</since>
+    <firstName>Wilson</firstName>
+    <lastName>Wu</lastName>
+    <sex>Male</sex>
+    <dob>01/20/2004</dob>
+    <password>danielwu5999</password>
+    <address>200 Callodine Ave.</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>716-957-8281</phone>
+    <email>michellechou218@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>61</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>08/01/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>02/23/2015 19:31</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:12</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/04/2015</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:13</date>
+        <amount>-5.0</amount>
+        <memo>error</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>61</id>
+    <since>02/23/2015</since>
+    <firstName>Yahui (Michelle)</firstName>
+    <lastName>Chou</lastName>
+    <sex>Female</sex>
+    <dob>02/18/1970</dob>
+    <password>danielwu5999</password>
+    <address>200 Callodine Ave</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>716-957-8281</phone>
+    <email>michellechou218@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>08/01/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/04/2015 21:11</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/04/2015</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:14</date>
+        <amount>15.0</amount>
+        <memo>balance transfer from sponsored player [62] Wu, Wilson</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:16</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 03/18/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:16</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 03/25/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:16</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 03/18/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:17</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 03/25/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:18</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 04/01/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:18</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 04/01/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 18:59</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 19:01</date>
+        <amount>-5.0</amount>
+        <memo>waived fee</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 03/04/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/06/2015 22:40</date>
+        <amount>-12.0</amount>
+        <memo>waived lesson fee</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:10</date>
+        <amount>-12.0</amount>
+        <memo>canceled [62] Wu, Wilson lesson for 03/25/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:10</date>
+        <amount>-12.0</amount>
+        <memo>canceled [61] Chou, Yahui (Michelle) lesson for 03/25/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:10</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 03/23/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:10</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 03/23/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/23/2015 21:45</date>
+        <amount>-12.0</amount>
+        <memo>canceled [62] Wu, Wilson lesson for 03/23/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/23/2015 21:45</date>
+        <amount>-12.0</amount>
+        <memo>canceled [61] Chou, Yahui (Michelle) lesson for 03/23/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 19:40</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 19:42</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 03/27/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 19:43</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 03/27/2015 @8:30 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 19:43</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/27/2015 21:54</date>
+        <amount>-102.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:15</date>
+        <amount>-12.0</amount>
+        <memo>canceled [61] Chou, Yahui (Michelle) lesson for 04/01/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:15</date>
+        <amount>-12.0</amount>
+        <memo>canceled [62] Wu, Wilson lesson for 04/01/2015 @8:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:15</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 04/10/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>04/01/2015 21:16</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 04/10/2015 @8:30 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 19:22</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 19:58</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:06</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 05/01/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:06</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 05/01/2015 @8:30 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:09</date>
+        <amount>-34.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/22/2015</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:10</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/22/2015 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 20:10</date>
+        <amount>-30.0</amount>
+        <memo>memberships</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:31</date>
+        <amount>-12.0</amount>
+        <memo>canceled [61] Chou, Yahui (Michelle) lesson for 05/01/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:31</date>
+        <amount>-12.0</amount>
+        <memo>canceled [62] Wu, Wilson lesson for 05/01/2015 @8:30 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:31</date>
+        <amount>12.0</amount>
+        <memo>reserved [61] Chou, Yahui (Michelle) lesson for 04/27/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:32</date>
+        <amount>12.0</amount>
+        <memo>reserved [62] Wu, Wilson lesson for 04/27/2015 @9:00 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>05/22/2015 21:13</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>05/22/2015 21:16</date>
+        <amount>18.0</amount>
+        <memo>1-day membership until 06/22/2015 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>05/22/2015 21:22</date>
+        <amount>-3.0</amount>
+        <memo>1-week membership refund for Wilson</memo>
+      </charge>
+      <charge>
+        <date>05/22/2015 21:23</date>
+        <amount>-20.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/01/2015 18:57</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 08/01/2015</memo>
+      </charge>
+      <charge>
+        <date>07/01/2015 18:58</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 08/01/2015 (for [62] Wu, Wilson)</memo>
+      </charge>
+      <charge>
+        <date>07/01/2015 18:59</date>
+        <amount>-30.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>60</id>
+    <since>02/18/2015</since>
+    <firstName>William</firstName>
+    <lastName>Begy</lastName>
+    <sex>Male</sex>
+    <dob>08/22/1960</dob>
+    <password>plumw00d</password>
+    <address>49 Plumwood Court</address>
+    <city>East Amherst</city>
+    <state>NY</state>
+    <zip>14051</zip>
+    <phone>7165483892</phone>
+    <email>wbegy@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/02/2015 19:46</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/02/2015 20:46</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 19:38</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/04/2015 21:40</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/09/2015 19:52</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/13/2015 19:21</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/13/2015 20:56</date>
+        <amount>-10.0</amount>
+        <memo>visitor fees x 2</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 19:18</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 20:34</date>
+        <amount>-17.0</amount>
+        <memo>visitor fee &amp; lesson</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 20:34</date>
+        <amount>12.0</amount>
+        <memo>reserved [60] Begy, William lesson for 04/20/2015 @8:30</memo>
+      </charge>
+      <charge>
+        <date>05/13/2015 20:25</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>05/13/2015 20:28</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 18:49</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 18:49</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>68</id>
+    <since>03/11/2015</since>
+    <firstName>Dave</firstName>
+    <lastName>Jentsch</lastName>
+    <sex>Male</sex>
+    <dob>06/11/1958</dob>
+    <password>djljcj</password>
+    <address>931 Girdle Road</address>
+    <city>East Aurora</city>
+    <state>NY</state>
+    <zip>14052</zip>
+    <phone>716-440-1603</phone>
+    <email>dave.jentsch@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/20/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/18/2015 22:11</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/18/2015</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 19:09</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 19:01</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/20/2015</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 19:01</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 21:15</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>04/22/2015 21:17</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/10/2015 18:54</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/10/2015 21:34</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>69</id>
+    <since>03/18/2015</since>
+    <firstName>Jason</firstName>
+    <lastName>Holler</lastName>
+    <sex>Male</sex>
+    <dob>04/29/1981</dob>
+    <password>mytown</password>
+    <address>250 Dimatteo Drive</address>
+    <city>N. Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>716-984-5491</phone>
+    <email>hollermedia@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>2.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>04/25/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/18/2015 19:32</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/18/2015 21:26</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 19:40</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/25/2015</memo>
+      </charge>
+      <charge>
+        <date>03/25/2015 19:41</date>
+        <amount>-15.0</amount>
+        <memo>membership</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+      <charge>
+        <date>04/29/2015 19:36</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>70</id>
+    <since>03/23/2015</since>
+    <firstName>Qichang</firstName>
+    <lastName>Tang</lastName>
+    <sex>Male</sex>
+    <dob>08/23/1991</dob>
+    <password>zhchelly19910823</password>
+    <address>125 American Campus Dr</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>7167301123</phone>
+    <email>zhchelly@163.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>71</id>
+    <since>04/22/2015</since>
+    <firstName>Randy</firstName>
+    <lastName>Murphy</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1952</dob>
+    <password>1642</password>
+    <address>26 Meadow Road</address>
+    <city>Orchard Park</city>
+    <state>NY</state>
+    <zip>14127</zip>
+    <phone>7168395984</phone>
+    <email>lrmurph@live.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>64</id>
+    <since>02/25/2015</since>
+    <firstName>Ben</firstName>
+    <lastName>Axberg</lastName>
+    <sex>Male</sex>
+    <dob>04/28/1997</dob>
+    <password>stayalive2</password>
+    <address>69 Pinewoods drive</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>7166037765</phone>
+    <email>bbadude@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>4</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/22/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/04/2015 21:24</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/04/2015</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>65</id>
+    <since>03/04/2015</since>
+    <firstName>jon</firstName>
+    <lastName>pancerman</lastName>
+    <sex>Male</sex>
+    <dob>11/17/1982</dob>
+    <password>nahtanoj</password>
+    <address>51 huntwood ct</address>
+    <city>getzville</city>
+    <state>NY</state>
+    <zip>14068</zip>
+    <phone>7163084714</phone>
+    <email>jpancerman@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>-3.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>04/11/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/04/2015 21:21</date>
+        <amount>12.0</amount>
+        <memo>reserved [65] pancerman, jon lesson for 03/11/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 18:38</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/11/2015</memo>
+      </charge>
+      <charge>
+        <date>03/11/2015 19:46</date>
+        <amount>-4.5</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/16/2015 19:37</date>
+        <amount>12.0</amount>
+        <memo>reserved [65] pancerman, jon lesson for 03/16/2015 @7:30</memo>
+      </charge>
+      <charge>
+        <date>03/16/2015 20:13</date>
+        <amount>-34.5</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>66</id>
+    <since>03/09/2015</since>
+    <firstName>Mark</firstName>
+    <lastName>Raybuck</lastName>
+    <sex>Male</sex>
+    <dob>04/01/1958</dob>
+    <password>msrPong</password>
+    <address>121 Greencastle Lane</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>7167132165</phone>
+    <email>msrsub5@verizon.net</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>05/27/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>03/16/2015 18:48</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/16/2015 18:49</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>03/16/2015 18:50</date>
+        <amount>12.0</amount>
+        <memo>reserved [66] Raybuck, Mark lesson for 03/16/2015 @7:00</memo>
+      </charge>
+      <charge>
+        <date>03/16/2015 18:50</date>
+        <amount>-12.0</amount>
+        <memo>lesson</memo>
+      </charge>
+      <charge>
+        <date>03/23/2015 19:00</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 04/23/2015</memo>
+      </charge>
+      <charge>
+        <date>03/23/2015 19:02</date>
+        <amount>12.0</amount>
+        <memo>reserved [66] Raybuck, Mark lesson for 03/30/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>03/23/2015 19:04</date>
+        <amount>-27.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>03/30/2015 18:54</date>
+        <amount>12.0</amount>
+        <memo>reserved [66] Raybuck, Mark lesson for 04/06/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>03/30/2015 18:55</date>
+        <amount>-12.0</amount>
+        <memo>lesson</memo>
+      </charge>
+      <charge>
+        <date>04/06/2015 18:37</date>
+        <amount>-3.0</amount>
+        <memo>Member refund for cancellation on 04/03/2015</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 18:37</date>
+        <amount>12.0</amount>
+        <memo>reserved [66] Raybuck, Mark lesson for 04/20/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>04/20/2015 18:49</date>
+        <amount>-9.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:31</date>
+        <amount>12.0</amount>
+        <memo>reserved [66] Raybuck, Mark lesson for 04/27/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:53</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 05/27/2015</memo>
+      </charge>
+      <charge>
+        <date>04/27/2015 18:53</date>
+        <amount>-27.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>67</id>
+    <since>03/09/2015</since>
+    <firstName>xueqin</firstName>
+    <lastName>xue</lastName>
+    <sex>Female</sex>
+    <dob>06/06/1985</dob>
+    <password />
+    <address>68 wehrle drive</address>
+    <city>cheektowaga</city>
+    <state>NY</state>
+    <zip>14225</zip>
+    <phone>7164256236</phone>
+    <email>xueqinxue@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>76</id>
+    <since>06/12/2015</since>
+    <firstName>Daniel</firstName>
+    <lastName>Shin</lastName>
+    <sex>Male</sex>
+    <dob>01/10/1992</dob>
+    <password>Password</password>
+    <address>128 Wendel Av</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>5.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/12/2015 19:16</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>77</id>
+    <since>06/17/2015</since>
+    <firstName>Jason</firstName>
+    <lastName>Jolley</lastName>
+    <sex>Male</sex>
+    <dob>05/04/1994</dob>
+    <password>chicala11</password>
+    <address>4344 Royalton Center Road</address>
+    <city>Gasport</city>
+    <state>NY</state>
+    <zip>14067</zip>
+    <phone>716 525 3148</phone>
+    <email>jasonjlly@aol.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>78</id>
+    <since>06/17/2015</since>
+    <firstName>Steven</firstName>
+    <lastName>Lakes</lastName>
+    <sex>Male</sex>
+    <dob>11/15/1994</dob>
+    <password>Cojack94</password>
+    <address>6539 Charlotteville RD</address>
+    <city>Newfane</city>
+    <state>NY</state>
+    <zip>14108</zip>
+    <phone>716-525-4962</phone>
+    <email>pond226@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>79</id>
+    <since>06/19/2015</since>
+    <firstName>DAVID</firstName>
+    <lastName>LICEA</lastName>
+    <sex>Male</sex>
+    <dob>11/24/1969</dob>
+    <password>blacky2400</password>
+    <address>197 Lamont Dr</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>7169866753</phone>
+    <email>glda531@hotmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>72</id>
+    <since>06/08/2015</since>
+    <firstName>Brandon</firstName>
+    <lastName>Lavocat</lastName>
+    <sex>Male</sex>
+    <dob>07/10/1996</dob>
+    <password>@Brandon14120</password>
+    <address>1240 Ruie Road</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>7169090572</phone>
+    <email>blsabres96@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>5.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>07/12/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/12/2015 20:29</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 07/12/2015</memo>
+      </charge>
+      <charge>
+        <date>06/26/2015 20:25</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/15/2015 20:25</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/15/2015 20:28</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/22/2015 21:52</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/27/2015 20:17</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/27/2015 20:52</date>
+        <amount>-10.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 20:51</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>73</id>
+    <since>06/08/2015</since>
+    <firstName>Zachary</firstName>
+    <lastName>Krisnosky</lastName>
+    <sex>Male</sex>
+    <dob>04/12/1997</dob>
+    <password>924pioneer</password>
+    <address>924 Pioneer Dr.</address>
+    <city>North Tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>7169093599</phone>
+    <email>proon21@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>07/12/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/12/2015 18:49</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 07/12/2015</memo>
+      </charge>
+      <charge>
+        <date>06/12/2015 18:49</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>74</id>
+    <since>06/12/2015</since>
+    <firstName>Marvin</firstName>
+    <lastName>Mui</lastName>
+    <sex>Male</sex>
+    <dob>01/07/1995</dob>
+    <password>Love4people.</password>
+    <address>26A Durham Drive</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>646-361-1760</phone>
+    <email>marvinmuimui@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/12/2015 19:13</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/10/2015 18:59</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>75</id>
+    <since>06/12/2015</since>
+    <firstName>Eric</firstName>
+    <lastName>Park</lastName>
+    <sex>Male</sex>
+    <dob>07/04/1986</dob>
+    <password>rlguslek</password>
+    <address>1525 Amherst Manor drive</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>6465849930</phone>
+    <email>kyunii@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>85</id>
+    <since>07/15/2015</since>
+    <firstName>Christian</firstName>
+    <lastName>Acosta</lastName>
+    <sex>Male</sex>
+    <dob>05/01/2001</dob>
+    <password />
+    <address>279 North Lane</address>
+    <city>Grand Island</city>
+    <state>NY</state>
+    <zip>14072</zip>
+    <phone>716-773-3372</phone>
+    <email>dscacosta@aol.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>5.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>07/27/2015 19:24</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>84</id>
+    <since>07/15/2015</since>
+    <firstName>David</firstName>
+    <lastName>Acosta</lastName>
+    <sex>Male</sex>
+    <dob>09/09/1961</dob>
+    <password />
+    <address>279 North Lane</address>
+    <city>Grand Island</city>
+    <state>NY</state>
+    <zip>14072</zip>
+    <phone>716 773-3372</phone>
+    <email>dscacosta@aol.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>87</id>
+    <since>07/27/2015</since>
+    <firstName>Clifford</firstName>
+    <lastName>Yen</lastName>
+    <sex>Male</sex>
+    <dob>08/28/2005</dob>
+    <password />
+    <address />
+    <city />
+    <state>NY</state>
+    <zip />
+    <phone>716-906-6068</phone>
+    <email>tung.szuning@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>07/27/2015 19:15</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/27/2015 19:15</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 20:36</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 20:38</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>86</id>
+    <since>07/15/2015</since>
+    <firstName>Jim</firstName>
+    <lastName>Bordonaro</lastName>
+    <sex>Male</sex>
+    <dob>05/14/1951</dob>
+    <password>bordo</password>
+    <address>43 Briarhurst Dr</address>
+    <city>Tonawanda</city>
+    <state>NY</state>
+    <zip>14150</zip>
+    <phone>716-835-8585</phone>
+    <email>jaybordo@yahoo.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>08/20/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>07/20/2015 18:39</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 08/20/2015</memo>
+      </charge>
+      <charge>
+        <date>07/20/2015 18:39</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>81</id>
+    <since>06/29/2015</since>
+    <firstName>Dickson</firstName>
+    <lastName>Beam</lastName>
+    <sex>Male</sex>
+    <dob>01/01/1961</dob>
+    <password>dickson</password>
+    <address>382 Erie st.</address>
+    <city>Medina</city>
+    <state>NY</state>
+    <zip>14103</zip>
+    <phone>585-590-0076</phone>
+    <email>kristinbeam6535@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>7.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>06/29/2015 21:02</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/29/2015 21:03</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 21:15</date>
+        <amount>24.0</amount>
+        <memo>balance transfer from sponsored player [80] beam, daniel</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 21:15</date>
+        <amount>5.0</amount>
+        <memo>balance transfer from sponsored player [82] beam, benjamin</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 21:18</date>
+        <amount>-17.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>07/27/2015 19:25</date>
+        <amount>5.0</amount>
+        <memo>visitor fee (for [82] beam, benjamin)</memo>
+      </charge>
+      <charge>
+        <date>07/27/2015 19:26</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee for Ben</memo>
+      </charge>
+      <charge>
+        <date>08/24/2015 21:03</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>80</id>
+    <since>06/22/2015</since>
+    <firstName>daniel</firstName>
+    <lastName>beam</lastName>
+    <sex>Male</sex>
+    <dob>03/13/2000</dob>
+    <password>daniel</password>
+    <address>382 erie st</address>
+    <city>medina</city>
+    <state>NY</state>
+    <zip>14103</zip>
+    <phone>585 590 0076</phone>
+    <email>kristinbeam6535@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>81</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>08/31/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/24/2015</checkIn>
+    </checkIns>
+    <charges>
+      <charge>
+        <date>06/26/2015 21:11</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/26/2015 21:12</date>
+        <amount>-5.0</amount>
+        <memo>waived visitor fee</memo>
+      </charge>
+      <charge>
+        <date>06/26/2015 21:17</date>
+        <amount>33.0</amount>
+        <memo>1-day membership until 08/31/2015</memo>
+      </charge>
+      <charge>
+        <date>06/26/2015 21:18</date>
+        <amount>-33.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>06/29/2015 20:55</date>
+        <amount>12.0</amount>
+        <memo>reserved [80] beam, daniel lesson for 06/29/2015 @7:30</memo>
+      </charge>
+      <charge>
+        <date>06/29/2015 20:57</date>
+        <amount>12.0</amount>
+        <memo>reserved [80] beam, daniel lesson for 07/06/2015 @8:00</memo>
+      </charge>
+      <charge>
+        <date>06/29/2015 20:58</date>
+        <amount>-12.0</amount>
+        <memo>lesson</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 21:13</date>
+        <amount>12.0</amount>
+        <memo>reserved [80] beam, daniel lesson for 07/13/2015 @8:30</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>83</id>
+    <since>07/13/2015</since>
+    <firstName>Chenlu</firstName>
+    <lastName>Yang</lastName>
+    <sex>Female</sex>
+    <dob>08/15/1990</dob>
+    <password>undersky</password>
+    <address>574 Richmond Ave, Apt 3</address>
+    <city>Buffalo</city>
+    <state>NY</state>
+    <zip>14222</zip>
+    <phone>7023508840</phone>
+    <email>chenluology@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>82</id>
+    <since>07/06/2015</since>
+    <firstName>benjamin</firstName>
+    <lastName>beam</lastName>
+    <sex>Male</sex>
+    <dob>01/01/2001</dob>
+    <password>ben</password>
+    <address>382 erie st</address>
+    <city>medina</city>
+    <state>NY</state>
+    <zip>14103</zip>
+    <phone />
+    <email />
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>81</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges>
+      <charge>
+        <date>07/06/2015 20:18</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/06/2015 20:18</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>07/13/2015 20:18</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>93</id>
+    <since>08/26/2015</since>
+    <firstName>Kevin</firstName>
+    <lastName>Chen</lastName>
+    <sex>Male</sex>
+    <dob>09/08/1991</dob>
+    <password>jial6791</password>
+    <address>4441 Chestnut Ridge RD</address>
+    <city>BUffalo</city>
+    <state>NY</state>
+    <zip>14228</zip>
+    <phone>7162508455</phone>
+    <email>chenhr0908@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>92</id>
+    <since>08/17/2015</since>
+    <firstName>Rahul</firstName>
+    <lastName>Dhariwal</lastName>
+    <sex>Male</sex>
+    <dob>11/09/1990</dob>
+    <password>TennisRahul1108</password>
+    <address>70 Callodine Avenue</address>
+    <city>Amherst</city>
+    <state>NY</state>
+    <zip>14226</zip>
+    <phone>7162625964</phone>
+    <email>rahuldha@buffalo.edu</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/24/2015</checkIn>
+    </checkIns>
+    <charges>
+      <charge>
+        <date>08/24/2015 19:02</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/24/2015 19:03</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>89</id>
+    <since>07/29/2015</since>
+    <firstName>peter</firstName>
+    <lastName>mundt</lastName>
+    <sex>Male</sex>
+    <dob>01/29/1964</dob>
+    <password>seven777</password>
+    <address>558 gilmore ave</address>
+    <city>north tonawanda</city>
+    <state>NY</state>
+    <zip>14120</zip>
+    <phone>208-7257</phone>
+    <email>gpmundt@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/24/2015</checkIn>
+    </checkIns>
+    <charges>
+      <charge>
+        <date>08/03/2015 20:39</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/03/2015 20:39</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 19:29</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/10/2015 19:31</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/24/2015 19:29</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/24/2015 19:42</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>88</id>
+    <since>07/27/2015</since>
+    <firstName>William</firstName>
+    <lastName>Mogensen</lastName>
+    <sex>Male</sex>
+    <dob>07/24/1950</dob>
+    <password>24262426</password>
+    <address>1329 Birdsong pl</address>
+    <city>The Villages</city>
+    <state>FL</state>
+    <zip>32163</zip>
+    <phone>716-909-7570</phone>
+    <email>mogwilli@aol.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns />
+    <charges />
+  </player>
+  <player>
+    <id>91</id>
+    <since>08/03/2015</since>
+    <firstName>bobby</firstName>
+    <lastName>felber</lastName>
+    <sex>Male</sex>
+    <dob>05/08/1988</dob>
+    <password />
+    <address>1066 elmwood ave</address>
+    <city>buffalo</city>
+    <state>NY</state>
+    <zip>14043</zip>
+    <phone>7164727339</phone>
+    <email>felbowski9918@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>none</memType>
+      <memExp>01/01/1900</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/24/2015</checkIn>
+    </checkIns>
+    <charges>
+      <charge>
+        <date>08/24/2015 19:39</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/24/2015 19:41</date>
+        <amount>-5.0</amount>
+        <memo>payment</memo>
+      </charge>
+    </charges>
+  </player>
+  <player>
+    <id>90</id>
+    <since>08/03/2015</since>
+    <firstName>Anthony</firstName>
+    <lastName>Liberati</lastName>
+    <sex>Male</sex>
+    <dob>10/19/1989</dob>
+    <password>Pingpong1101</password>
+    <address>183 Palmdale Drive Apt 6</address>
+    <city>Williamsville</city>
+    <state>NY</state>
+    <zip>14221</zip>
+    <phone>7167132686</phone>
+    <email>tony3k1@gmail.com</email>
+    <rating>0</rating>
+    <usatt>false</usatt>
+    <balance>0.0</balance>
+    <sponsorId>-1</sponsorId>
+    <membership>
+      <memType>1-day</memType>
+      <memExp>09/05/2015</memExp>
+      <special />
+    </membership>
+    <lessons />
+    <checkIns>
+      <checkIn>08/24/2015</checkIn>
+    </checkIns>
+    <charges>
+      <charge>
+        <date>08/05/2015 19:09</date>
+        <amount>15.0</amount>
+        <memo>1-day membership until 09/05/2015</memo>
+      </charge>
+      <charge>
+        <date>08/05/2015 19:09</date>
+        <amount>-15.0</amount>
+        <memo>payment</memo>
+      </charge>
+      <charge>
+        <date>08/12/2015 22:06</date>
+        <amount>5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+      <charge>
+        <date>08/12/2015 22:06</date>
+        <amount>-5.0</amount>
+        <memo>visitor fee</memo>
+      </charge>
+    </charges>
+  </player>
+</players>

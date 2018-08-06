@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 06 19:17:13 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0165-1187-bd7d-00000f287c00 
+on database directory C:\Users\Raymond\Desktop\Career\Code Samples\Projects\MatchPointMS\distribution\res\mpdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4958a845 
+Loaded from file:/C:/Users/Raymond/Desktop/Career/Code%20Samples/Projects/MatchPointMS/distribution/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.1+10
+user.dir=C:\Users\Raymond\Desktop\Career\Code Samples\Projects\MatchPointMS\distribution
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
